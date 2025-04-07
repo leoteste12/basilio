@@ -1,0 +1,32 @@
+
+body {
+    background-color: #121212;
+    color: #f0f0f0;
+    font-family: sans-serif;
+    padding: 2rem;
+}
+
+h1 {
+    text-align: center;
+}
+
+#filtros {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-bottom: 2rem;
+}
+
+select {
+    padding: 0.5rem;
+    font-size: 1rem;
+    background-color: #222;
+    color: #fff;
+    border: 1px solid #444;
+}
+
+canvas {
+    background: #1e1e1e;
+    padding: 1rem;
+    border-radius: 10px;
+}
